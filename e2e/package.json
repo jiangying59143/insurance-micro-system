@@ -1,0 +1,16 @@
+{
+  "name": "insurance-e2e",
+  "version": "1.0.0",
+  "description": "Cypress E2E tests for Insurance System",
+  "scripts": {
+    "cy:open": "cypress open",
+    "cy:run": "cypress run",
+    "cy:run:headless": "cypress run --headless"
+  },
+  "devDependencies": {
+    "cypress": "^13.6.1",
+    "typescript": "^5.3.3"
+  }
+}
+
+
